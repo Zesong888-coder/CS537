@@ -1,6 +1,6 @@
 To run the tests:
 
-There are currently 8 different test cases available in ~cs537-1/tests/P7/test_disk_images.
+There are currently 6 different test cases available in ~cs537-1/tests/P7/test_disk_images.
 Each of these folders has an input and output file.
 
 *0 example image (image-01 will not be used for the final testing)
